@@ -20,7 +20,7 @@
 	
 -->
 <property name="appversion" value="1.1"/>
-<property name="dist.location" value="C:\Users\ram\Documents\Ant\Third build\Antant-practice\Dist"/>
+<property name="dist.location" value="C:\Users\rbhusa\Documents\Ant\Third build\Antant-practice\Dist"/>
 <property file="build.properties"/>
 <path id="testclasspath">
 <pathelement location="build/classes"/>
